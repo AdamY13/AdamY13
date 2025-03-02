@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a senior and in my final year of my bacherlors degree in computer science. I am really interested in Datascience and I also love developing softwares. I know a few languages such as the main web dev ones like HTM, CSS, JS. Ofcourse Python specifically for AI purposes such as deep learning. FamilIr with java and C++ too and I also know how to deal and work with Databases using MySQL 
+I’m a senior in my final year of a bachelor’s degree in Computer Science, passionate about data science and software development. I enjoy building software solutions and exploring the power of AI through deep learning.
 
 
 ## 🌐 Socials:
